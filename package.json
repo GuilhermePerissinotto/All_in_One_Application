@@ -1,0 +1,24 @@
+{
+  "name": "Testes-GraphQL",
+  "version": "1.0.0",
+  "description": "",
+  "devDependencies": {
+    "@types/node": "^8.0.29",
+    "ts-node": "^3.3.0",
+    "typescript": "^3.3.3333"
+  },
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "apollo-server": "^2.19.1",
+    "graphql": "^15.4.0",
+    "mysql": "^2.18.1",
+    "reflect-metadata": "^0.1.13",
+    "typeorm": "^0.2.30"
+  }
+}
